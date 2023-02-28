@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/><br/>
+<br/>
 
 <div align="center">
   <h4>안녕하세요 👋</h4>
