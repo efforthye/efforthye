@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=efforthye&fontAlignY=40&fontSize=100&desc=ꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=efforthye&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
+<!-- desc : 소제목 -->
 
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
 <!--
 **efforthye/efforthye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <div align="center">
-  <h4>안녕하세요 👋</h4>
+  <h4>안녕하세요! 👋</h4>
   풀스택 개발자를 꿈꾸는 박혜림입니다.
 	
   <br /><br />
