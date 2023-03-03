@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 	
  <br />
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuoayop&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a> -->
+	
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=efforthye)](https://solved.ac/efforthye/)
 
 <br />
