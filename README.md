@@ -19,8 +19,8 @@
    |Date Range|Organizers|Event Name|Achievement|
    |:---:|---|---|---|
    | 2023.10.16 ~ 2023.10.21|Internet Computer x Code States x Token Post x Hashed| 제 1회 ICP ABC Academy Hackathon |🏆 5,000 ICP|
-   | 2023.12.16 ~ 2023.12.16|Amazon Web Service x Girls in Tech Korea| AWS Generative AI 대회 |🏆 특별상|
-   | 2024.03.16 ~ 2024.03.30|SSI Korea|인공지능 시대, 개인의 디지털 신원을 보호하라|🏆 우수상|
+   | 2023.12.16 ~ 2023.12.16|Amazon Web Service x Girls in Tech Korea| AWS Generative AI Competition |🏆 특별상|
+   | 2024.03.16 ~ 2024.03.30|SSI Korea|인공지능 시대, 개인의 디지털 신원을 보호하라 |🏆 우수상|
    | 2024.04.13 ~ 2024.04.14|Microsoft x KDI School x 행정안전부| Hack for Public Good in Korea Hackathon |🏆 본선 입상|
    <br />
   
