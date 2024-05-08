@@ -52,7 +52,7 @@
 
 
 
-![snake gif](https://github.com/efforthye/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/efforthye/efforthye/github-contribution-grid-snake.svg)
 <!-- 참고 블로그 : https://donkeysdevelpment.tistory.com/113 -->
 <!-- ![snake gif](https://github.com/efforthye/efforthye/blob/output/github-contribution-grid-snake-dark.svg) -->
 <!-- <img src="https://github.com/efforthye/efforthye/blob/output/github-contribution-grid-snake.svg"/> -->
