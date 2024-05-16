@@ -20,10 +20,10 @@
    |:---:|---|---|---|
    | 2023.10.16 ~ 2023.10.21|Internet Computer x Code States x Token Post x Hashed| 제 1회 ICP ABC Academy Hackathon |🏆 5,000 ICP|
    | 2023.12.16 ~ 2023.12.16|Amazon Web Service x Girls in Tech Korea| AWS Generative AI Competition |🏆 특별상|
+   | 2024.03.16 ~ 2024.03.30|SSI Korea (Self-sovereign Identity)|인공지능 시대, 개인의 디지털 신원을 보호하라 |🏆 우수상|
    | 2024.04.13 ~ 2024.04.14|행정안전부 x KDI 국제정책대학원 x Microsoft| Hack for Public Good in Korea Hackathon |🏆 소풍벤처스상|
    <br />
   
-   <!--| 2024.03.16 ~ 2024.03.30|SSI Korea (Self-sovereign Identity)|인공지능 시대, 개인의 디지털 신원을 보호하라 |🏆 우수상|-->
 
 <!-- 기술 스택 좀 다듬어야 함
   <h3>📕 <strong>Tech Stack</strong> </h3> 
