@@ -49,7 +49,6 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
-<br/>
 <!-- 발자국 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuoayop&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>  -->
 
