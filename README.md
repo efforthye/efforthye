@@ -21,9 +21,10 @@
    | 2023.10.16 ~ 2023.10.21|Internet Computer x Code States x Token Post x Hashed| 제 1회 ICP ABC Academy Hackathon |🏆 5,000 ICP|
    | 2023.12.16 ~ 2023.12.16|Amazon Web Service x Girls in Tech Korea| AWS Generative AI Competition |🏆 특별상|
    | 2024.03.16 ~ 2024.03.30|SSI Korea (Self-sovereign Identity)|인공지능 시대, 개인의 디지털 신원을 보호하라 |🏆 우수상|
-   | 2024.04.13 ~ 2024.04.14|Microsoft x KDI 국제정책대학원 x 행정안전부| Hack for Public Good in Korea Hackathon |🏆 소풍벤처스상|
-   | 2024.05.16 ~ 2024.05.18|한국 로봇 융합 연구원(KIRO) x 강남구청 | Gangnam Robot AI Hackathon |🏆 한국로봇융합연구원장상|
-   | 2024.05.31 ~ 2024.06.01|스파르타코딩클럽 x 항해99 | 세상을 구하는 AI 해커톤 <2024 항해커톤> |🏆 대상|
+   | 2024.04.13 ~ 2024.04.14|Microsoft x KDI 국제정책대학원 x 행정안전부| Hack for Public Good in Korea 해커톤 |🏆 소풍벤처스상|
+   | 2024.05.16 ~ 2024.05.18|한국 로봇 융합 연구원(KIRO) x 강남구청 | 강남 로봇 AI 해커톤 |🏆 한국로봇융합연구원장상|
+   | 2024.05.31 ~ 2024.06.01|스파르타코딩클럽 x 항해99| 세상을 구하는 AI 해커톤 <2024 항해커톤> |🏆 대상|
+   | 2024.08.31 ~ 2024.09.01|XRPL Korea| XRP Ledger Hackathon Seoul 2024 |🏆 5,400 XRP|
    
 <br/>
 
