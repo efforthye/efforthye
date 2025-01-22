@@ -24,8 +24,17 @@
    | 2024.04.13 ~ 2024.04.14|Microsoft x KDI 국제정책대학원 x 행정안전부| Hack for Public Good in Korea Hackathon |🏆 소풍벤처스상|
    | 2024.05.16 ~ 2024.05.18|한국 로봇 융합 연구원(KIRO) x 강남구청 | Gangnam Robot AI Hackathon |🏆 한국로봇융합연구원장상|
    | 2024.05.31 ~ 2024.06.01|스파르타코딩클럽 x 항해99 | 세상을 구하는 AI 해커톤 <2024 항해커톤> |🏆 대상|
-   <br />
-  
+   
+<br/><br/> 
+
+<!-- 깃허브 동물 키우기 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=efforthye&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/efforthye"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!-- 기술 스택 좀 다듬어야 함
   <h3>📕 <strong>Tech Stack</strong> </h3> 
@@ -40,26 +49,22 @@
 <p><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></p>
 -->
 
-  <!-- ㅇㅂㅇ -->
+<!-- ㅇㅂㅇ -->
 <!--   - dart, flutter, icp, canister, slack, ubuntu, ec2, firebase, spring, java, nest.js, oracle, redis, swagger, android studio, vscode -->
-
- <br />
- <br />
-
-<!-- 항해플러스 배지 -->
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
-<!-- 발자국 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuoayop&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>  -->
 
 <!-- 깃허브 스탯 -->
 <!-- ![efforthye's github stats](https://github-readme-stats.vercel.app/api?username=efforthye&show_icons=true) -->
 
-<!-- 사용 언어 -->
-<a href="https://github.com/efforthye"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efforthye&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+<!-- 사용 언어 
+<a href="https://github.com/efforthye"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efforthye&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a>  -->
 
+<!-- 발자국 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuoayop&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a> -->
 
+<!-- 항해플러스 배지
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /> 
+</a><br/> -->
 
 ![snake gif](https://github.com/efforthye/efforthye/blob/main/github-contribution-grid-snake.svg)
 <!-- 참고 블로그 : https://donkeysdevelpment.tistory.com/113 -->
