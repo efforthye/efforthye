@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=efforthye&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
-<br/>
+<!-- <br/> -->
 
 <div align="center"> 
 <!--   <h3>안녕하세요 👋</h3>  -->
