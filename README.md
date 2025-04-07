@@ -25,8 +25,10 @@
    | 2024.05.16 ~ 2024.05.18|한국 로봇 융합 연구원(KIRO) x 강남구청 | 강남 로봇 AI 해커톤 |🏆 한국로봇융합연구원장상|
    | 2024.05.31 ~ 2024.06.01|스파르타코딩클럽 x 항해99| 세상을 구하는 AI 해커톤 <2024 항해커톤> |🏆 대상|
    | 2024.08.31 ~ 2024.09.01|XRPL Korea| XRP Ledger Hackathon Seoul 2024 |🏆 5,400 XRP|
+   | 2025.04.04 ~ 2025.04.06|Solana x Superteam Korea| Seoulana Hackathon 2025 |🏆 4,000 USDC|
    
 <br/>
+<!-- - Liquidity Staking Innovation Track (1st) -->
 
 <!-- 깃허브 동물 키우기 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=efforthye&utm_content=farm">
