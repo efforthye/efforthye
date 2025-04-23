@@ -19,7 +19,7 @@
    |Date Range|Organizers|Event Name|Achievement|
    |:---:|---|---|---|
    | 2023.10.16 ~ 2023.10.21|Internet Computer x Code States x Token Post x Hashed| [제 1회 ICP ABC Academy Hackathon](https://www.tokenpost.kr/event/998) |🏆 5,000 ICP|
-   | 2023.12.16 ~ 2023.12.16|Amazon Web Service x Girls in Tech Korea| [AWS Generative AI Competition](https://onoffmix.com/event/289875?srsltid=AfmBOooT-4KZjkapdrOMj-SFJnMD_YVYBz66Zxr2QDgFeS5x2cK7SSKk) |🏆 특별상|
+   | 2023.12.13 ~ 2023.12.16|Amazon Web Service x Girls in Tech Korea| [AWS Generative AI Competition](https://onoffmix.com/event/289875?srsltid=AfmBOooT-4KZjkapdrOMj-SFJnMD_YVYBz66Zxr2QDgFeS5x2cK7SSKk) |🏆 특별상|
    | 2024.03.16 ~ 2024.03.30|SSI Korea (Self-sovereign Identity)|[인공지능 시대, 개인의 디지털 신원을 보호하라](https://benny-jung.medium.com/%EB%AC%B4%EB%A3%8C-%EA%B5%90%EC%9C%A1-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EB%94%94%EC%A7%80%ED%84%B8-%EC%8B%A0%EC%9B%90%EC%9D%84-%EB%B3%B4%ED%98%B8%ED%95%98%EB%9D%BC-bca700273ea4) |🏆 우수상|
    | 2024.04.13 ~ 2024.04.14|Microsoft x KDI 국제정책대학원 x 행정안전부| [Hack for Public Good in Korea 해커톤](https://event-us.kr/aiinnovation/event/80730) |🏆 소풍벤처스상|
    | 2024.05.16 ~ 2024.05.18|한국 로봇 융합 연구원(KIRO) x 강남구청 | [Gangnam Robot AI Hackathon](https://www.instagram.com/kiro_story/p/C6pmOyYpp-2/?img_index=1) |🏆 한국로봇융합연구원장상|
