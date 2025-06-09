@@ -32,6 +32,13 @@
 <!-- - Liquidity Staking Innovation Track (1st) -->
 
 <!-- 깃허브 동물 키우기 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=efforthye&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/efforthye"
+  width="600"
+  height="300"
+/>
+</a>
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/719825752896762621/draw"
@@ -39,13 +46,6 @@
         height="300"
         alt="gitanimals"
       />
-    </a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=efforthye&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/efforthye"
-  width="600"
-  height="300"
-/>
 </a>
 
 <!-- 기술 스택 좀 다듬어야 함
