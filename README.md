@@ -25,6 +25,7 @@
    | 2024.05.16 ~ 2024.05.18|한국 로봇 융합 연구원(KIRO) x 강남구청 | [Gangnam Robot AI Hackathon](https://www.instagram.com/kiro_story/p/C6pmOyYpp-2/?img_index=1) |🏆 한국로봇융합연구원장상|
    | 2024.05.31 ~ 2024.06.01|스파르타코딩클럽 x 항해99| [세상을 구하는 AI 해커톤 <2024 항해커톤>](https://hanghae99.spartacodingclub.kr/hhackathon-ai) |🏆 대상|
    | 2024.08.31 ~ 2024.09.01|XRPL Korea| [XRP Ledger Hackathon Seoul 2024](https://lu.ma/1viq6evg?tk=YD2vjB) |🏆 5,400 XRP|
+   | 2024.12.14 ~ 2025.03.01|항해플러스 x 항해99| [항해 플러스 백엔드 7기 - NestJS](https://hanghae99.spartacodingclub.kr/plus/be) |⚓️ <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>|
    | 2025.04.04 ~ 2025.04.06|Solana x Superteam Korea| [Seoulana Hackathon 2025 - Liquidity Staking Innovation](https://www.seoulana.fun/) |🏆 4,000 USDC|
    
 <br/>
