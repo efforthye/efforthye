@@ -39,14 +39,14 @@
   height="300"
 />
 </a>
-<a href="https://www.gitanimals.org/">
+<!--<a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/719825752896762621/draw"
         width="600"
         height="300"
         alt="gitanimals"
       />
-</a>
+</a>-->
 
 <!-- 기술 스택 좀 다듬어야 함
   <h3>📕 <strong>Tech Stack</strong> </h3> 
