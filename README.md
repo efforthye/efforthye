@@ -1,14 +1,14 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=efforthye&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
-<h1 align="center">
+<span align="center">
   <!-- Hello World -->
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Hello+world!" alt="Typing SVG" /></a>-->
 	
-  <!-- 모에 카운터 -->
-  [![Visit Count](https://count.getloli.com/get/@efforthye?theme=rule34)](#)
+  <!-- 모에 카운터 - rule34 -->
+  [![Visit Count](https://count.getloli.com/get/@efforthye?theme=kasuterura-1)](#)
 	
-</h1>
+</span>
 
 <!-- <br/> -->
 
