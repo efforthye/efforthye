@@ -9,7 +9,7 @@
   [![Visit Count](https://count.getloli.com/get/@efforthye?theme=rule34)](#)
 
   <!-- Getloli 게시판 - light, black -->
-  [![](https://chat.getloli.com/room/@efforthye/svg?width=500&height=140&limit=20&theme=black&title=efforthye@github:%20~&fontSize=13)](https://chat.getloli.com/room/@efforthye?title=efforthye@github:%20~)
+  [![](https://chat.getloli.com/room/@efforthye/svg?width=500&height=60&limit=20&theme=black&title=efforthye@github:%20~&fontSize=13)](https://chat.getloli.com/room/@efforthye?title=efforthye@github:%20~)
 	
 </h1>
 
