@@ -31,7 +31,7 @@
    | 2025.04.04 ~ 2025.04.06|Solana x Superteam Korea| [Seoulana Hackathon 2025 - Liquidity Staking Innovation](https://www.seoulana.fun/) |🏆 4,000 USDC|
    
    <!-- Trophy -->
-   [![trophy](https://github-profile-trophy.vercel.app/?username=efforthye&theme=chalk&row=2&column=-1&title=-Reviews,-Stars&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=efforthye&theme=chalk&row=2&column=-1&title=-Reviews,-Stars&rank=-B,-C&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h1 style="margin: 0; padding: 0; font-size: 0; line-height: 0; height: 0; border-bottom: 1px solid #000; overflow: hidden;"></h1>
   <br />
