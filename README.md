@@ -24,9 +24,9 @@
   <br/>
   <strong>Innovation:</strong> Multiple hackathon winner with proven track record in delivering cutting-edge fintech solutions
   <br/>
-  <strong>Current Interests:</strong> MCP (Model Context Protocol) | Open Source Contributions | Work & Side Projects
-  <br/>
   <strong>Learning:</strong> Continuously exploring emerging technologies in DeFi, Tax Technology, Blockchain Compliance, and Mathematics
+  <br/>
+  <strong>Current Interests:</strong> MCP (Model Context Protocol) | Open Source Contributions | Work & Side Projects
   <br/><br/>
   My nickname "efforthye" (effort + Hyerim Park) reflects my love for putting in effort. Like the lyrics from La La Land's "Audition," I love being foolish - foolishly putting effort into everything and dreaming, regardless of whether it seems practical. Being aware of my own foolishness drives me to crave more, pour greater effort into my work, and dive deeper into what I do.
 </p>
