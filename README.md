@@ -31,7 +31,7 @@
   My nickname "efforthye" (effort + Hyerim Park) reflects my love for putting in effort. Like the lyrics from La La Land's "Audition," I love being foolish - foolishly putting effort into everything and dreaming, regardless of whether it seems practical. Being aware of my own foolishness drives me to crave more, pour greater effort into my work, and dive deeper into what I do.
 </p>
 
- <!-- Tech Stack -->
+ <!-- Tech Stack
  <h3><strong>Tech Stack</strong></h3>
  
  Frontend & Mobile
@@ -69,7 +69,7 @@ Blockchain & Web3
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp;
    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
- </p>
+ </p> -->
 
 <div align="center"> 
 
