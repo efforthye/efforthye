@@ -30,8 +30,8 @@
    | 2024.12.14 ~ 2025.03.01|항해플러스 x 항해99| [항해 플러스 백엔드 7기 - NestJS](https://hanghae99.spartacodingclub.kr/plus/be) |⚓️ <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>|
    | 2025.04.04 ~ 2025.04.06|Solana x Superteam Korea| [Seoulana Hackathon 2025 - Liquidity Staking Innovation](https://www.seoulana.fun/) |🏆 4,000 USDC|
    
-   <!-- Trophy -->
-   [![trophy](https://github-profile-trophy.vercel.app/?username=efforthye&theme=chalk&row=2&column=-1&title=-Reviews,-Stars&rank=-B,-C&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+   <!-- Trophy - &theme=chalk chalk, juicyfresh, dark_lover -->
+   [![trophy](https://github-profile-trophy.vercel.app/?username=efforthye&theme=juicyfresh&row=2&column=-1&title=-Reviews,-Stars&rank=-B,-C&no-bg=true&show_icons=true&count_private=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h1 style="margin: 0; padding: 0; font-size: 0; line-height: 0; height: 0; border-bottom: 1px solid #000; overflow: hidden;"></h1>
   <br />
