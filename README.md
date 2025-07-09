@@ -30,6 +30,9 @@
   <br/><br/>
   My nickname "efforthye" (effort + Hyerim Park) reflects my love for putting in effort. Like the lyrics from La La Land's "Audition," I love being foolish - foolishly putting effort into everything and dreaming, regardless of whether it seems practical. Being aware of my own foolishness drives me to crave more, pour greater effort into my work, and dive deeper into what I do.
 </p>
+  
+ <!-- Leetcode
+ <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/efforthye) -->
 
  <!-- Tech Stack
  <h3><strong>Tech Stack</strong></h3>
@@ -90,11 +93,12 @@ Blockchain & Web3
    | 2024.12.14 ~ 2025.03.01|항해플러스 x 항해99| [항해 플러스 백엔드 7기 - NestJS](https://hanghae99.spartacodingclub.kr/plus/be) |⚓️ <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>|
    | 2025.04.04 ~ 2025.04.06|Solana x Superteam Korea| [Seoulana Hackathon 2025 - Liquidity Staking Innovation](https://www.seoulana.fun/) |🏆 4,000 USDC|
    
-   <!-- Trophy - &theme=chalk chalk, juicyfresh, dark_lover -->
-   [![trophy](https://github-profile-trophy.vercel.app/?username=efforthye&theme=juicyfresh&row=2&column=-1&title=-Reviews,-Stars&rank=-B,-C&no-bg=true&show_icons=true&count_private=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- Trophy - &theme=chalk chalk, juicyfresh, dark_lover -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=efforthye&theme=juicyfresh&row=2&column=-1&title=-Reviews,-Stars&rank=-B,-C&no-bg=true&show_icons=true&count_private=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h1 style="margin: 0; padding: 0; font-size: 0; line-height: 0; height: 0; border-bottom: 1px solid #000; overflow: hidden;"></h1>
   <br />
+
 
   <!-- 깃허브 동물 키우기 -->
   <!-- 개인 -->
